@@ -30,7 +30,7 @@ drives.
 #### Definitions:
 - Shared drive(s) - file being shared between employees on the approved roster.
 
-#### Policy -- "why?"; broad, overarching guidance
+#### Policy 
 SOP -- This policy will take into effect once the Active Directory for CleanPower takes place and it will stay in effect until further revisions.
 Work Instructions -- Night Owl Network will have their own guidelines on how to setup the shared drive to ensure full security. 
 
