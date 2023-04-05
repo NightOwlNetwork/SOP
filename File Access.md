@@ -3,37 +3,36 @@
 # File Access SOP:
 ### Author: Connie Uribe Chavez
 #### Purpose:
-The purpose of this SOP is to define Active Directory file permissions management.
+The purpose of this s Standard Operating Procedure (SOP) is to define Active Directory file permissions management. To provide step-by-step instructions to IT Administrators on how to maintain the file sharing. 
 #### Scope:
-[What areas of the organization will be affected.]
+CleanPower team of engineers and energy experts will be granted persmission after they read and sign the File Sharing User Acceptance Agreement. The Night Owl Network IT Administrator will be granting permissions. 
 
 #### Responsibilities:
 Night Owls Network Administrators will be in charge of granting access, modifying permissions, and revoking access to the file share.
 
 #### Prerequisites:
-[The information, resources, permissions, etc. required to execute this procedure.]
+- Cyber security training for employees wanting access. This training should be provided by the Night Owl Network team.
+- Read and sign the File Sharing User Acceptance Agreement provided by Night Owl Network.
 
 #### Procedure:
-[The outline of the activities or sequence of steps for performing the procedure. This should not be overly detailed -- let it capture the shape of the activity to be performed, regardless of how the details of its implementation might change.]
+Night Owl Network is responsible for the overall management and
+development the directory and subdirectory structure on the shared
+drives. 
+1. The IT administrators will setup the shared drive.
+2. Employees on the roster should be added to the shared drive. 
+3. The IT administrators will ensure all functionalities are funtioning.
+4. The IT administrators must backup the Shared Drive daily.
+5. To ensure security, HR must email the names of new employees that will be granted permission to the shared drive to the IT department
+6. New employees must complete all the prerequesites before they are given any access to the shared drive. 
+7. Information stored on the shared drive must follow CleanPower company guidelines.
 
-Begin with a flow chart map of the parts of the procedure being defined. This will become your outline
-Bundle closely related tasks together for concision, especially if they always occur together/in sequence without much deviation
-Work to have 5-7 tasks -- too few and it's not worth reading; too many and it's too hard to read. This is about parsing.
-Now revise the flowchart to match the way you have bundled steps and number each steps
-Write a concise, focused description for each step
-Add a brief opening overview paragraph to describe the topic , inputs, outputs, expected results, and involved roles
-References:
-[Sources this document pulls from or references, or simply extended reading/documentation on this subject.]
-
-So, You Want to Write an SOP?
-37 Best Standard Operating Procedure (SOP) Templates
 
 #### Definitions:
-[What words are used throughout this document and procedure which have specific meanings that must be respected.]
+- Shared drive(s) - file being shared between employees on the approved roster.
 
 #### Policy -- "why?"; broad, overarching guidance
-SOP -- "what, when, why"; could be multiple SOPs to support a specific policy
-Work Instructions -- "how"; in-depth, step-by-step directions for a particular task
+SOP -- This policy will take into effect once the Active Directory for CleanPower takes place and it will stay in effect until further revisions.
+Work Instructions -- Night Owl Network will have their own guidelines on how to setup the shared drive to ensure full security. 
 
 #### Revision History:
 - 04/03/2023 -- "SOP Google Doc" created by Connie Uribe Chavez
