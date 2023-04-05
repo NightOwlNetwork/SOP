@@ -36,6 +36,6 @@ SOP -- "what, when, why"; could be multiple SOPs to support a specific policy
 Work Instructions -- "how"; in-depth, step-by-step directions for a particular task
 
 #### Revision History:
-04/03/2023 -- "SOP Google Doc" created by Connie Uribe Chavez
-04/05/2023 -- "File Access.md" created by Connie Uribe Chavez
+- 04/03/2023 -- "SOP Google Doc" created by Connie Uribe Chavez
+- 04/05/2023 -- "File Access.md" created by Connie Uribe Chavez
 
