@@ -34,6 +34,11 @@ drives.
 SOP -- This policy will take into effect once the Active Directory for CleanPower takes place and it will stay in effect until further revisions.
 Work Instructions -- Night Owl Network will have their own guidelines on how to setup the shared drive to ensure full security. 
 
+### References:
+https://support.microsoft.com/en-us/windows/-windows-file-system-access-and-privacy-a7d90b20-b252-0e7b-6a29-a3a688e5c7be#:~:text=How%20the%20file%20system%20access,file%20system%20is%20turned%20On.
+
+
+
 #### Revision History:
 - 04/03/2023 -- "SOP Google Doc" created by Connie Uribe Chavez
 - 04/05/2023 -- "File Access.md" created by Connie Uribe Chavez
