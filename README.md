@@ -12,4 +12,4 @@
 | Connie Uribe Chanvez  | [Monitoring Network Traffic](https://github.com/NightOwlNetwork/SOP/blob/main/Monitoring%20Network%20Traffic.md)      |    How Traffic is monitored |
 | Nickolaus Alderete  | [Network Changes](https://github.com/NightOwlNetwork/SOP/blob/main/Networking%20Changes.md)      |    How Changes are Managed |
 | Sierra Maldonado | [Management and Maintaining a Network](https://github.com/NightOwlNetwork/SOP/blob/main/Management%20and%20maintaining%20the%20Network.md)      |    Management of Network |
-| Full Team  | [SOP PDF](https://github.com/NightOwlNetwork/SOP/blob/main/SOPs%20(1).pdf)   | Full SOP PDF  |
+| Full Team  | [SOP PDF](https://github.com/NightOwlNetwork/SOP/blob/main/SOPs%20(2).pdf)   | Full SOP PDF  |
