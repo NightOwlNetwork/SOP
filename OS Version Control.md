@@ -30,4 +30,9 @@ The following procedures must be followed when version controlling and updating 
 - OS update implementation: The System Administrator implements the OS update during the scheduled maintenance window, following the implementation plan and verifying that the update has been successfully completed.
 - Documentation: The IT Manager documents all OS updates, including the reason for the update, the implementation plan, testing results, and post-update review results.
 
+### References:
+https://www.atlassian.com/git/tutorials/what-is-version-control#:~:text=Version%20control%2C%20also%20known%20as,to%20source%20code%20over%20time.
+
+Revision History:
+4/5/2023 - “OS Control” - Nick A
 
