@@ -37,6 +37,9 @@ So, You Want to Write an SOP?
 SOP -- "what, when, why"; could be multiple SOPs to support a specific policy
 Work Instructions -- "how"; in-depth, step-by-step directions for a particular task
 
+#### References:
+https://www.teramind.co/blog/ways-to-monitor-network-traffic/#:~:text=What%20Is%20Network%20Traffic%20Monitoring,understanding%20of%20overall%20network%20activity.
+
 #### Revision History:
 04/05/2023 -- "Monitoring Network Traffic.md" created by Connie Uribe Chavez
 
