@@ -27,14 +27,12 @@ Support: Provide ongoing support to the new employee for any technology related 
 Documentation: Document all technology assets assigned to new employees, date of allocation, and any relevant training or support provided.
 
 Compliance: Ensure that all documentation and procedures are compliant with relevant regulations and company policies. 
-#### References:
-[Sources this document pulls from or references, or simply extended reading/documentation on this subject.]
 
-So, You Want to Write an SOP?
-37 Best Standard Operating Procedure (SOP) Templates
+### References:
+https://asana.com/resources/employee-offboarding 
+https://blog.netwrix.com/2018/06/07/how-to-create-new-active-directory-users-with-powershell/
 
-#### Definitions:
-Work Instructions -- "how"; in-depth, step-by-step directions for a particular task
+
 
 #### Revision History:
 04/03/2023 -- "Handling Technology for Onboard” created by Geneva Knott
