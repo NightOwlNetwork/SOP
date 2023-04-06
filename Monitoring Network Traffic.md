@@ -32,29 +32,29 @@ The following procedures must be followed to monitor network traffic on the Clea
 SOP -- Traffic monitoring should be done on a daily basis or more oftern if needed. 
 Work Instructions
 Configuring Network Monitoring Tools
-a. Launch the network monitoring tool and log in using your credentials.
-b. Select the appropriate network interface(s) to capture traffic.
-c. Set filters to capture only the traffic of interest.
-d. Configure the storage location and retention policy for captured traffic.
-e. Set up alerts to notify security analysts of suspicious activity.
+- Launch the network monitoring tool and log in using your credentials.
+- Select the appropriate network interface(s) to capture traffic.
+- Set filters to capture only the traffic of interest.
+- Configure the storage location and retention policy for captured traffic.
+- Set up alerts to notify security analysts of suspicious activity.
 
 Monitoring Network Traffic
-a. Log in to the network monitoring tool and select the appropriate interface(s) to monitor.
-b. Review the real-time traffic dashboard to identify any anomalies or suspicious activity.
-c. Review the network traffic logs on a regular basis to identify any patterns or trends.
-d. Investigate any suspicious activity and escalate as necessary.
+- Log in to the network monitoring tool and select the appropriate interface(s) to monitor.
+- Review the real-time traffic dashboard to identify any anomalies or suspicious activity.
+- Review the network traffic logs on a regular basis to identify any patterns or trends.
+- Investigate any suspicious activity and escalate as necessary.
 
 Analyzing Network Traffic
-a. Open the network traffic logs in the network monitoring tool.
-b. Filter the logs to display only the relevant traffic.
-c. Analyze the traffic to identify any security threats or breaches.
-d. Document your findings and notify the appropriate personnel.
+- Open the network traffic logs in the network monitoring tool.
+- Filter the logs to display only the relevant traffic.
+- Analyze the traffic to identify any security threats or breaches.
+- Document your findings and notify the appropriate personnel.
 
 Responding to Network Issues
-a. Log in to the network monitoring tool and review any alerts or notifications.
-b. Investigate any reported issues and attempt to resolve them.
-c. Escalate any unresolved issues to the appropriate personnel.
-d. Document your actions and communicate with network administrators and security analysts as needed.
+- Log in to the network monitoring tool and review any alerts or notifications.
+- Investigate any reported issues and attempt to resolve them.
+- Escalate any unresolved issues to the appropriate personnel.
+- Document your actions and communicate with network administrators and security analysts as needed.
 
 #### References:
 - [NIST Guidelines on Firewalls and Firewall Policy ](https://nvlpubs.nist.gov/nistpubs/legacy/sp/nistspecialpublication800-41r1.pdf)
