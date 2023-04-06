@@ -26,8 +26,12 @@ Compliance: Ensure that all documentation and procedures are compliant with rele
 #### References:
 [Sources this document pulls from or references, or simply extended reading/documentation on this subject.]
 
-So, You Want to Write an SOP?
-37 Best Standard Operating Procedure (SOP) Templates
+### References:
+
+https://blog.netwrix.com/2018/06/07/how-to-create-new-active-directory-users-with-powershell/
+https://adamtheautomator.com/powershell-onboarding-script/
+
+
 #### Revision History:
 04/03/2023 -- "Onboarding" created by Geneva Knott
 
