@@ -32,3 +32,11 @@ The following procedures must be followed when managing network changes:
 - Communication plan: The Network Administrator establishes a communication plan to notify all parties of the change, including the scheduled maintenance window, and any potential impact or downtime.
 - Change implementation: The Change Implementer implements the change during the scheduled maintenance window, following the implementation plan and verifying that the change has been successfully completed.
 - Documentation: The Network Administrator documents all network changes, including the reason for the change, the implementation plan, testing results, and post-implementation review results.
+
+### References:
+https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-role-of-networks-in-organizational-change
+
+Revision History:
+4/5/2023 - “Networking Changes” -Nick A 
+
+
