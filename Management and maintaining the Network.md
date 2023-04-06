@@ -1,6 +1,5 @@
 # Management and maintaining the Network authored Sierra
-Management and maintaining the Network SOP:
-Author: Sierra Maldonado
+
 ### Purpose:
 The purpose of this SOP is to establish a set of guidelines for managing and maintaining the network.
 Scope:
