@@ -12,4 +12,4 @@
 | Connie Uribe Chavez  | [Monitoring Network Traffic](https://github.com/NightOwlNetwork/SOP/blob/main/Monitoring%20Network%20Traffic.md)      |   Establish guidelines for monitoring network traffic on the cleanpower to ensure the security and reliability of the network. |
 | Nickolaus Alderete  | [Network Changes](https://github.com/NightOwlNetwork/SOP/blob/main/Networking%20Changes.md)      |    Guidelines for managing changes to the network, including hardware, software, or configuration changes, with the primary goal of minimizing disruptions and downtime. |
 | Sierra Maldonado | [Management and Maintaining a Network](https://github.com/NightOwlNetwork/SOP/blob/main/Management%20and%20maintaining%20the%20Network.md)      |    Establish a set of guidelines for managing and maintaining the network |
-| Full Team  | [SOP PDF](https://github.com/NightOwlNetwork/SOP/blob/main/SOPs%20(4).pdf)   | Complete Standard Operating Procedure PDF  |
+| Night Owl Network Team  | [SOP PDF](https://github.com/NightOwlNetwork/SOP/blob/main/SOPs%20(4).pdf)   | Complete Standard Operating Procedure PDF  |
