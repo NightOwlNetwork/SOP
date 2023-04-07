@@ -28,11 +28,11 @@ Compliance: Ensure that all documentation and procedures are compliant with rele
 
 #### References:
 
-[New Active Directory](https://blog.netwrix.com/2018/06/07/how-to-create-new-active-directory-users-with-powershell/)
-[Onboarding script](https://adamtheautomator.com/powershell-onboarding-script/)
+- [New Active Directory](https://blog.netwrix.com/2018/06/07/how-to-create-new-active-directory-users-with-powershell/)
+- [Onboarding script](https://adamtheautomator.com/powershell-onboarding-script/)
 
 
 #### Revision History:
-04/03/2023 -- "Onboarding" created by Geneva Knott
-04/07/2023 -- "Employee Off-Boarding.md" Markdown formatting by Connie Uribe Chavez
+- 04/03/2023 -- "Onboarding" created by Geneva Knott
+- 04/07/2023 -- "Employee Off-Boarding.md" Markdown formatting by Connie Uribe Chavez
 
