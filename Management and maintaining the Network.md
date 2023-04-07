@@ -38,5 +38,5 @@ Identify and troubleshoot potential network issues
 
 #### Revision History:
 - 04/05/2023 - “Management and Maintenance” created by Sierra
-- 04/07/2023 - "Management and maintaining the Network.md" - Minimal markdown changes by Connie Uribe Chavez
+- 04/07/2023 - "Management and maintaining the Network.md" - Minimal markdown formatting changesby Connie Uribe Chavez
 
