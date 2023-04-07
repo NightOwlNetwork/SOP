@@ -1,6 +1,7 @@
-# Management and maintaining the Network authored Sierra
+# Management and maintaining the Network 
+### Author Sierra
 
-### Purpose:
+#### Purpose:
 The purpose of this SOP is to establish a set of guidelines for managing and maintaining the network.
 #### Scope:
 This SOP applies to all members of the IT department responsible for network management and maintenance.
@@ -35,7 +36,7 @@ Identify and troubleshoot potential network issues
 - [Network Maintenance tasks](https://www.howtonetwork.org/tshoot/module-1/network-maintenance-tasks/)
 
 
-Revision History:
+#### Revision History:
 - 04/05/2023 - “Management and Maintenance” created by Sierra
 - 04/07/2023 - "Management and maintaining the Network.md" - Minimal markdown changes by Connie Uribe Chavez
 
