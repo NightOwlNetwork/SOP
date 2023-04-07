@@ -1,19 +1,20 @@
-### OS Version Control authored by Nick
+# OS Version Control 
+### Author: Nick
 
-Purpose:
+#### Purpose:
 This Standard Operating Procedure (SOP) is designed to provide guidelines for the version control and updating of operating systems (OS) on all devices connected to the network. The purpose of this SOP is to ensure that all devices on the network have the latest OS version and security updates, and that the process is managed in a controlled and consistent manner, with clear roles and responsibilities defined for all involved parties.
 
-Scope:
+#### Scope:
 This SOP applies to all devices connected to the network, including but not limited to servers, workstations, laptops, and mobile devices. This SOP covers all operating systems, including Windows, macOS, Linux, and mobile OSes.
 
-Responsibilities:
+#### Responsibilities:
 The following roles and responsibilities are defined for the version control and updating of operating systems:
 
 - IT Manager: responsible for reviewing and approving OS updates, coordinating update implementation, and ensuring updates are completed as per the defined procedures.
 - System Administrator: responsible for scheduling and implementing OS updates, testing updates, and verifying that the updates have been successfully completed.
 - End User: responsible for ensuring that their device is connected to the network during the scheduled update window, and for reporting any issues to the System Administrator
 
-Prerequisites:
+#### Prerequisites:
 Before updating any operating system, the following prerequisites must be met:
 
 - OS update: A formal OS update request must be submitted and approved by the IT Manager.
@@ -21,7 +22,7 @@ Before updating any operating system, the following prerequisites must be met:
 - Backups: All affected devices must be backed up before the OS update implementation.
 - Communication plan: A communication plan must be established, including notifying all parties of the update and scheduling a maintenance window.
 
-Procedure:
+#### Procedure:
 The following procedures must be followed when version controlling and updating operating systems:
 
 - OS update request: The System Administrator submits a formal OS update request to the IT Manager, including all relevant details such as the reason for the update, the expected impact, and the proposed implementation plan.
@@ -30,9 +31,10 @@ The following procedures must be followed when version controlling and updating 
 - OS update implementation: The System Administrator implements the OS update during the scheduled maintenance window, following the implementation plan and verifying that the update has been successfully completed.
 - Documentation: The IT Manager documents all OS updates, including the reason for the update, the implementation plan, testing results, and post-update review results.
 
-### References:
-https://www.atlassian.com/git/tutorials/what-is-version-control#:~:text=Version%20control%2C%20also%20known%20as,to%20source%20code%20over%20time.
+#### References:
+- [What is version control](https://www.atlassian.com/git/tutorials/what-is-version-control#:~:text=Version%20control%2C%20also%20known%20as,to%20source%20code%20over%20time.)
 
-Revision History:
-4/5/2023 - “OS Control” - Nick A
+#### Revision History:
+- 4/5/2023 - “OS Control” created by Nick A
+- 04/07/2023 - "OS Version Control.md" Minimal markdown formatting by Connie Uribe Chavez
 
