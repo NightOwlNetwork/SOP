@@ -39,6 +39,6 @@ The following procedures must be followed when managing network changes:
 
 Revision History:
 - 4/5/2023 - “Networking Changes” created by Nick A 
-- 04/07/2023 - "Networking Changes.md" Minimal markdown formatting by Connie Uribe Chavez
+- 04/07/2023 - "Networking Changes.md" Minimal markdown formatting changes by Connie Uribe Chavez
 
 
