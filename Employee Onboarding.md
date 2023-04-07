@@ -28,11 +28,12 @@ Documentation: Document all technology assets assigned to new employees, date of
 
 Compliance: Ensure that all documentation and procedures are compliant with relevant regulations and company policies. 
 
-### References:
-https://asana.com/resources/employee-offboarding 
-https://blog.netwrix.com/2018/06/07/how-to-create-new-active-directory-users-with-powershell/
+#### References:
+- [Offboaring](https://asana.com/resources/employee-offboarding)
+- [New Active Directory Script](https://blog.netwrix.com/2018/06/07/how-to-create-new-active-directory-users-with-powershell/)
 
 
 
 #### Revision History:
-04/03/2023 -- "Handling Technology for Onboard” created by Geneva Knott
+- 04/03/2023 -- "Handling Technology for Onboard” created by Geneva Knott
+- 04/072023 -- "Employee Onboarding.md" Small markdown formatting changes by Connie Uribe Chavez
