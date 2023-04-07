@@ -34,5 +34,5 @@ Compliance: Ensure that all documentation and procedures are compliant with rele
 
 #### Revision History:
 - 04/03/2023 -- "Onboarding" created by Geneva Knott
-- 04/072023 -- "Employee Off-Boarding.md" Small markdown formatting changes by Connie Uribe Chavez
+- 04/072023 -- "Employee Off-Boarding.md" Minimal markdown formatting changes by Connie Uribe Chavez
 
