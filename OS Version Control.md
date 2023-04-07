@@ -36,5 +36,5 @@ The following procedures must be followed when version controlling and updating 
 
 #### Revision History:
 - 4/5/2023 - “OS Control” created by Nick A
-- 04/07/2023 - "OS Version Control.md" Minimal markdown formatting by Connie Uribe Chavez
+- 04/07/2023 - "OS Version Control.md" Minimal markdown formatting changes by Connie Uribe Chavez
 
